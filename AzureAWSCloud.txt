@@ -1,0 +1,129 @@
+Marketing
+1. Matthew Woodward : https://www.matthewwoodward.co.uk/
+2. Twitter Automation Rules: https://help.twitter.com/en/rules-and-policies/twitter-automation
+3. Twitter Bot in Tweepy: https://realpython.com/twitter-bot-python-tweepy/
+
+
+
+GoodReads:
+1. 7 software quality KPIs favorable in agile development projects - TestDevLab Blog: ttps://www.testdevlab.com/blog/2016/11/7-software-quality-kpis-favorable-in-agile-development-projects/
+
+
+AWS
+1. Lightsail Wordpress: https://aws.amazon.com/getting-started/hands-on/launch-a-wordpress-website/
+2  Serverless Computing: https://aws.amazon.com/serverless/
+3. Dashbird Serverless Util: https://dashbird.io/
+4. Serverless Architecture ( Pros&Cons): https://hackernoon.com/what-is-serverless-architecture-what-are-its-pros-and-cons-cc4b804022e9
+5. Servers.LOL Serverless Cost: https://servers.lol/
+6. AWS Auto Scaling: https://docs.aws.amazon.com/autoscaling/plans/userguide/gs-best-practices.html
+7. AWS Auto Scaling Lessons: https://www.botmetric.com/blog/aws-auto-scaling-top-11-hard-won-lessons-2/
+8. AWS Reliability Pillar: https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf
+7. Getting started with eksctl - Amazon EKS: https://docs.aws.amazon.com/eks/latest/userguide/getting-started-eksctl.html
+8. EKS BlueGreen: https://github.com/blu3seed1/eks-blue-green-deployment/tree/master/blue
+9. EKS AMI: https://github.com/awslabs/amazon-eks-ami
+10. awslabs/amazon-eks-ami: https://github.com/awslabs/amazon-eks-ami/blob/master/amazon-eks-nodegroup.yaml
+11. P2-Installing kubectl - Amazon EKS: https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html
+12. eks-cluster/vpc.stack.yml: https://github.com/thestacks-io/eks-cluster/blob/master/vpc/vpc.stack.yml
+13. How to Setup Kubernetes Cluster using AWS EKS (AWS Managed Kubernetes) – DevOpsAGE: https://www.devopsage.com/how-to-setup-kubernetes-cluster-using-aws-eks-aws-managed-kubernetes/
+14. AWS Billing: https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/checklistforunwantedcharges.html
+15. Serverless Applications: https://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf
+16. Seamlessly Scale Predictions with AWS Lambda and MXNet | AWS Compute Blog: https://aws.amazon.com/blogs/compute/seamlessly-scale-predictions-with-aws-lambda-and-mxnet/
+17. Free tier check: https://console.aws.amazon.com/billing/home?region=ap-south-1#/freetier
+18. Deploy a high-availability web app using CloudFormation Project FAQ — Udacity Cloud DevOps: https://medium.com/@andresaaap/deploy-a-high-availability-web-app-using-cloudformation-project-faq-udacity-cloud-devops-53a115fde07e
+19. CanaryRelease: https://martinfowler.com/bliki/CanaryRelease.html
+20. Working With Playbooks — Ansible Documentation: https://docs.ansible.com/ansible/latest/user_guide/playbooks.html
+21. How to set up a Continuous Integration and Delivery (CI/CD) Pipeline: https://aws.amazon.com/getting-started/projects/set-up-ci-cd-pipeline/?trk=gs_card
+22. Free Tier Limits - AWS Billing and Cost Management: https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/free-tier-limits.html
+23. Architecture Resources | AWS: https://aws.amazon.com/architecture/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&reference-architecture.sort-by=item.additionalFields.sortDate&reference-architecture.sort-order=desc
+24. Multiple Region Multi-VPC Connectivity – AWS Answers: https://aws.amazon.com/answers/networking/aws-multiple-region-multi-vpc-connectivity/
+25. terminology - Difference between DevOps and Software Configuration Management - Software Engineering Stack Exchange: https://softwareengineering.stackexchange.com/questions/130850/difference-between-devops-and-software-configuration-management
+26. Practice for cracking any coding interview - GeeksforGeeks: https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/
+27. Regular Expressions: https://www.grymoire.com/Unix/Regular.html#TOC
+28. aws-refarch-wordpress-v20171026.jpeg (5137×3399): https://raw.githubusercontent.com/aws-samples/aws-refarch-wordpress/master/images/aws-refarch-wordpress-v20171026.jpeg
+29. About SAML 2.0-based Federation - AWS Identity and Access Management: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_saml.html
+30. Security Best Practices in IAM - AWS Identity and Access Management: https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
+31. IAM Roles - AWS Identity and Access Management: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html
+32. IAM Roles: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use.html
+
+
+Terraform
+1. Best Practices: https://www.terraform.io/docs/cloud/guides/recommended-practices/index.html
+2. Terraform Practices for AWS: https://medium.com/xebia-engineering/best-practices-to-create-organize-terraform-code-for-aws-2f4162525a1a
+3. Infra as Code Read 2: https://blog.realkinetic.com/terraform-infrastructure-as-code-best-practices-2591ea047da7
+4. BackEnds: https://www.terraform.io/docs/backends/index.html
+5. Terraform State: https://blog.gruntwork.io/how-to-manage-terraform-state-28f5697e68fa
+6. Terraform Practices Read 3: https://www.terraform-best-practices.com/
+
+
+Cloud 
+1. Apps Performance: https://techbeacon.com/app-dev-testing/why-cloud-apps-dont-perform-what-you-can-do-about-it
+2. Performance Efficiency-Framework: https://wa.aws.amazon.com/wat.pillar.performance.en.html
+3. Approaching Cloud Performance: https://www.computer.org/csdl/magazine/cd/2018/02/mcd2018020033/13rRUwkfB1z
+4. Network Performance: https://www.youtube.com/watch?v=DWiwuYtIgu0
+5. Network Performance Computing: https://www.networkcomputing.com/networking/network-performance-aws-5-factors
+6. Extending File System: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html#extend-linux-volume-partition" ADD_DATE="1590272961
+7. TerraGoat: https://medium.com/bridgecrew/terragoat-vulnerable-by-design-terraform-training-by-bridgecrew-524b50728887
+8. GitOps: A Path to More Self-service IT - ACM Queue: https://queue.acm.org/detail.cfm?id=3237207
+9. Horizontal Pod Autoscaler Walkthrough - Kubernetes: https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/
+10. Monitoring apps running on multiple GKE clusters using Prometheus and Cloud Monitoring: https://cloud.google.com/solutions/monitoring-apps-running-on-multiple-gke-clusters-using-prometheus-and-stackdriver
+11. DevOps: Pets vs Cattle: https://medium.com/@Joachim8675309/devops-concepts-pets-vs-cattle-2380b5aab313
+12. Cloud Migration: https://www.cloudindustryforum.org/content/getting-cloud-faster-5-ws-cloud-migration
+13. HPC: https://aws.amazon.com/hpc/
+14. CloudWatch Metrics: https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/aws-services-cloudwatch-metrics.html
+15. Run Incident Postmertems: https://www.atlassian.com/incident-management/handbook/postmortems
+16. List of Common Network Port Numbers - Utilize Windows: https://www.utilizewindows.com/list-of-common-network-port-numbers/
+17. Install and Set Up kubectl - Kubernetes: https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-on-linux
+18. Makefile Tutorial by Example: https://makefiletutorial.com/
+19. CircleCI: https://circleci.com/blog/how-to-set-up-a-continuous-integration-pipeline-for-a-rails-dual-boot/
+20. enkins Best Practices - Jenkins - Jenkins Wiki- https://wiki.jenkins.io/display/JENKINS/Jenkins+Best+Practices
+21. Performance | Jenkins plugin: https://plugins.jenkins.io/performance/
+22. Why You Should Use Continuous Integration and Continuous Deployment | CSS-Tricks: https://css-tricks.com/continuous-integration-continuous-deployment/
+23. A successful Git branching model » nvie.com: https://nvie.com/posts/a-successful-git-branching-model/
+
+
+Bash
+1. The Bash Academy: https://www.bash.academy/
+2. Bash Guide for Beginners: http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
+3. BASH Programming - Introduction HOW-TO: http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+
+
+Parvesh
+1. Resume: https://drive.google.com/file/d/1V9Zgp1ZkRjeXG_kgHghtM-Jam3sUr6bR/view?usp=sharing
+2. SSI: https://www.linkedin.com/sales/ssi
+
+
+Courses:
+1. NPTEL Cloud Computing: https://nptel.ac.in/courses/106/105/106105167/
+2. NPTEL Cloud Computing: https://nptel.ac.in/courses/106/104/106104182/
+3. CKA-Exam De-stress Guide: https://devopstar.com/2020/05/01/certified-kubernetes-administrator-exam-de-stress-guide
+
+
+Docker:
+1. jenkins - Docker: Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock - Stack Overflow: https://stackoverflow.com/questions/47854463/docker-got-permission-denied-while-trying-to-connect-to-the-docker-daemon-socke
+2. K8: https://github.com/kubernetes/examples/blob/master/guestbook-go/README.md
+3. use jenkins-x for capstone: https://knowledge.udacity.com/questions/54459
+4. Capstone project, Cloud DevOps Nanodegree FAQ - Alvaro Andres Pinzon Cortes - Medium: https://medium.com/@andresaaap/capstone-cloud-devops-nanodegree-4493ab439d48
+5. Tools for Monitoring Resources - Kubernetes: https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/
+6. Borg, Omega, and Kubernetes - ACM Queue: https://queue.acm.org/detail.cfm?id=2898444
+7. kubectl Usage Conventions - Kubernetes: https://kubernetes.io/docs/reference/kubectl/conventions/
+8. kubectl Cheat Sheet - Kubernetes: https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
+
+Azure:
+1. Write Custom Logs on Log Analytics through Databricks on Azure: https://medium.com/faun/write-custom-logs-on-log-analytics-through-databricks-on-azure-68759dbeac55
+2. Log custom application security events in Azure Log Analytics which are ingested and used in Azure Sentinel: https://zimmergren.net/log-custom-application-security-events-log-analytics-ingested-in-azure-sentinel/
+3. Collect and analyze Syslog messages in Azure Monitor - Azure Monitor | Microsoft Docs: https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-sources-syslog
+4. Linux Syslog in Log Analytics – Marc Kean: https://marckean.com/2018/09/03/linux-syslog-in-log-analytics/
+5. Azure Monitor HTTP Data Collector API - Azure Monitor | Microsoft Docs: ttps://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-collector-api#create-a-request"
+6. Sending and Querying Custom Log Data to Azure Monitor Logs - darrenjrobinson - Bespoke Identity and Access Management Solutions: https://blog.darrenjrobinson.com/sending-and-querying-custom-log-data-to-azure-monitor-logs/
+7. Log Analytics Data Collector API – Marc Kean: https://marckean.com/2018/08/17/log-analytics-data-collector-api-2/
+8. Monitor your VMs - Azure Windows Virtual Machines | Microsoft Docs: https://docs.microsoft.com/en-us/azure/virtual-machines/windows/monitor
+9. Collect custom logs in Azure Monitor - Azure Monitor | Microsoft Docs: https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-sources-custom-logs
+10. selenium - installing geckodriver only using terminal - Stack Overflow: https://stackoverflow.com/questions/40867959/installing-geckodriver-only-using-terminal
+11. How to Configure postman / newman API tests in Azure DevOps or TFS and Publish HTML Results?: https://medium.com/@ganeshsirsi/how-to-configure-postman-newman-api-tests-in-azure-devops-or-tfs-and-publish-html-results-caf60a25c8b9
+12. Secure files for Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs: https://docs.microsoft.com/en-us/azure/devops/pipelines/library/secure-files?view=azure-devops
+13. Connect to Microsoft Azure - Azure Pipelines | Microsoft Docs:  https://docs.microsoft.com/en-us/azure/devops/pipelines/library/connect-to-azure?view=azure-devops
+14. terraform-azurerm-oneormanylinuxVM/main.tf at master · squasta/terraform-azurerm-oneormanylinuxVM: https://github.com/squasta/terraform-azurerm-oneormanylinuxVM/blob/master/main.tf
+15. 10 Tips for Monitoring Best Practices (Alerting and Notifications): https://www.monitis.com/blog/10-tips-for-monitoring-best-practices-alerting-and-notifications/
+16. Quickstart: Create a Linux Python app - Azure App Service | Microsoft Docs: https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-python?tabs=bash
+17. terraform for the LinuxVM and appservice: https://docs.microsoft.com/en-us/azure/developer/terraform/install-configure
